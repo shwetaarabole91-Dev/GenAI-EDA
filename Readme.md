@@ -30,3 +30,17 @@
     ├── gender_count.png
     ├── age_dist.png
     └── correlation_heatmap.png
+
+### 📸 Visualizations
+
+#### 1. Math Score Distribution
+![Math Score](visualizations/math_score_hist.png)
+
+#### 2. Gender Count
+![Gender](visualizations/gender_count.png)
+
+#### 3. Correlation Heatmap
+![Heatmap](visualizations/correlation_heatmap.png)
+
+#### 4. Study Hours vs Score
+![Scatter](visualizations/scatter_study_math.png)
