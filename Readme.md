@@ -1,4 +1,4 @@
-# 📊 GenAI Task 13 - Advanced EDA & Data Visualization
+# 📊 GenAI- Advanced EDA & Data Visualization
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python">
@@ -19,7 +19,7 @@
 
 ### 📁 Folder Structure
 ```bash
-📦 GenAI-Task13-EDA
+📦 GenAI-EDA
 ├── 📓 Assignment_13.ipynb
 ├── 📄 product_data.json
 ├── 🗃️ sample.db
