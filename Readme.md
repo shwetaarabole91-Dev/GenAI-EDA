@@ -1,4 +1,4 @@
-# 📊 GenAI  - Advanced EDA & Data Visualization
+# 📊 GenAI - Advanced EDA & Data Visualization
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python">
@@ -6,16 +6,9 @@
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
 </p>
 
-> A complete Exploratory Data Analysis project with 12+ visualizations, data cleaning & insights extraction.
+> A complete Exploratory Data Analysis project with 12+ visualizations.
 
 ---
-
-### ✨ Live Preview
-| Chart Type | Preview |
-|---|---|
-| Distribution | `math_score_hist.png` |
-| Correlation | `correlation_heatmap.png` |
-| Outliers | `math_box.png` |
 
 ### 📁 Folder Structure
 ```bash
@@ -30,17 +23,3 @@
     ├── gender_count.png
     ├── age_dist.png
     └── correlation_heatmap.png
-
-### 📸 Visualizations
-
-#### 1. Math Score Distribution
-![Math Score](visualizations/math_score_hist.png)
-
-#### 2. Gender Count
-![Gender](visualizations/gender_count.png)
-
-#### 3. Correlation Heatmap
-![Heatmap](visualizations/correlation_heatmap.png)
-
-#### 4. Study Hours vs Score
-![Scatter](visualizations/scatter_study_math.png)
